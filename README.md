@@ -5,8 +5,8 @@
 # Create database in MySQL
 # Create GET, POST, PUT and DELETE API in PHP
 
-REACT
-NODE JS
+# REACT
+# NODE JS
 # Component
 ## List User
 ## Create User
